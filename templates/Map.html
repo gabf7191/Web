@@ -1,0 +1,21 @@
+{% extends "BaseAndr.html" %}
+{% block title %} Andreani Soluciones - Mapa {% endblock %}
+
+{% block Head %}
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/Estilo.css') }}">
+<style>
+body {
+      background: none;
+      background-color: Darkgrey;
+}
+</style>
+{% endblock %}
+
+
+{% block body %}
+{% include "SucVsLoc.html" %}
+{% endblock %}
+
+
+
+
