@@ -15,7 +15,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
   <component name="ProjectId" id="1iNTXlHhuRCif7SPKIAmEoPtkD9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,11 +29,12 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SimuCintas" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gbalonga\PycharmProjects\Web\templates" />
       <recent name="C:\Users\gbalonga\PycharmProjects\Web\static\css" />
       <recent name="C:\Users\gbalonga\PycharmProjects\Web\static" />
     </key>
@@ -90,30 +96,30 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601749357741">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602359711556">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601749357741" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1601991334483">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1602359711556" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1602870185906">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601991334483" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1601927322976">
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602870185906" />
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom" timestamp="1602869794082">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601927322976" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1601927322976">
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602869794082" />
+    <state width="1323" height="176" key="GridCell.Tab.0.center" timestamp="1602869794082">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601927322976" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1601927322976">
+    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602869794082" />
+    <state width="1323" height="176" key="GridCell.Tab.0.left" timestamp="1602869794079">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601927322976" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1601927322976">
+    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602869794079" />
+    <state width="1323" height="176" key="GridCell.Tab.0.right" timestamp="1602869794082">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601927322976" />
+    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602869794082" />
     <state width="1328" height="220" key="GridCell.Tab.1.bottom" timestamp="1601828206887">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -130,9 +136,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1328" height="220" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1601828206887" />
-    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1601991323652">
+    <state x="181" y="7" key="SettingsEditor" timestamp="1602870188060">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601991323652" />
+    <state x="181" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602870188060" />
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1602507630881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1602507630881" />
+    <state x="489" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602870172977">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="489" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1602870172977" />
   </component>
 </project>

@@ -37,6 +37,13 @@ def Andreani():
 def Map():
     return render_template("Map.html")
 
+@app.route ("/Int")
+def Int():
+    return render_template("Int.html")
+
+@app.route ("/AMBAi")
+def AMBAi():
+    return render_template("AMBAi.html")
 
 if __name__ == "__main__":
     app.run(debug= True)
